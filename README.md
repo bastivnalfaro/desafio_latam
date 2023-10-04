@@ -15,12 +15,6 @@ Respecto al tiempo se puede observar en el resultado que la mayor cantidad de ti
 
 Con respecto a la memoria se observa que la mayor cantidad de memoria que se utiliza es al momento de cargar el archivo.json a un dataframe, se podria reducir la cantidad de memoria utilizada leyendo de manera particionada la data del archivo.
 
-Ejercicio 2:
+Ejercicio 2 y 3
 
-Tiempo:
-Memoria:
-
-Ejercicio 3:
-
-Tiempo:
-Memoria:
+Creo que la forma de diseño que tienen estas funciones son bastantes optimas respecto a tiempo y memoria
